@@ -6,8 +6,8 @@ Repository for the paper: Tomasini C., Riazuelo, L. & Murillo, A.C. (2024) *Sim2
 
 # 2. Prerequisites
 
-# 3. Proposed Pipeline
+# 3. Proposed image translation pipeline
 
-# 4. How to use
+# 4. How to run
 
-# 5. Results
+# 5. Fold segmentation annotations and results
