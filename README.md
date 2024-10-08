@@ -12,5 +12,11 @@ Repository for the paper: Tomasini C., Riazuelo, L. & Murillo, A.C. (2024) *Sim2
 # 4. How to run
 
 # 5. Fold segmentation annotations and results
-[**Test set from EndoMapper dataset**](https://drive.google.com/drive/folders/1PN8IASR4GyC94wFvd7WFgSqURshMT2_A?usp=sharing): RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks. As used in our paper.
+Data used in our paper for train and test can be found at the following links, containing RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks.
+
+- Simulated train set adapted from VR-CAPS
+- Simulated test set adapted from VR-CAPS
+- Real train set from EndoMapper dataset
+- [**Real test set from EndoMapper dataset**](https://drive.google.com/drive/folders/1PN8IASR4GyC94wFvd7WFgSqURshMT2_A?usp=sharing)
+  
 ![res_vis](https://github.com/user-attachments/assets/cb8e1f21-6f86-4493-bcbb-fde5873f7a9f)
