@@ -33,11 +33,11 @@ The software has been tested on **Ubuntu 20.04** and uses [Python](https://www.p
 # 4. How to run
 Weights for our modified CycleGAN network trained on simulated images from VR-CAPS and real images from EndoMapper can be found here: [**Weights**](https://drive.google.com/drive/folders/1oS8HHqoYd5FFLuCjmFix1r9CrTLkpWMy?usp=drive_link)
 # 5. Fold segmentation annotations and results
-Data used in our paper for train and test can be found at the following links, containing RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks.
+Data used in our paper for train and test can be found [**here**](https://unizares-my.sharepoint.com/:f:/g/personal/ctomasini_unizar_es/EizIJ_31a1NBpU_3iZSPaIcBRCqXNMM9wXgGbBe37_t6rA?e=hvom5Y), containing RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks, depth maps (folder *depth.zip*) for simulated images, simulated images with added realistic texture (folder *original_aug.zip*) .
 
-- [**Simulated test set adapted from VR-CAPS**](https://drive.google.com/drive/folders/1S-hbntHkmbOEWNXvtIMvhwts2mE3K2TL?usp=drive_link): simulated (folder *original.zip*) and simulated with added realistic texture (folder *original_aug.zip*) images, ground-truth binary (folder *gt.zip*) and instance (folder *inst.zip*) segmentations
-- [**Simulated train set adapted from VR-CAPS**](https://drive.google.com/drive/folders/13Q8GTTmJw-6nyETqcnyMUhWqcUcOXqLg?usp=drive_link): RGB images (folder *original.zip*), depth maps (*depth.zip*), binary (*gt.zip*) and instance (*inst.zip*) segmentation masks
-- [**Real test set from EndoMapper dataset**](https://drive.google.com/drive/folders/1L1tgOwAGnCCba30X9yPw_O90LapxlvD5?usp=share_link)
-- [**Real train set from EndoMapper dataset**](https://drive.google.com/drive/folders/1EJOCb66-Rjt8Xi5c9HbZhTN50DR9L1W_?usp=drive_link): RGB images (*original.zip*)
+- **simulated_test** Simulated test set adapted from VR-CAPS 
+- **simulated_train**: Simulated train set adapted from VR-CAPS
+- **endomapper_test**: Real test set from EndoMapper dataset
+- **endomapper_train**: Real train set from EndoMapper dataset (only RGB images)
   
 ![res_vis](https://github.com/user-attachments/assets/cb8e1f21-6f86-4493-bcbb-fde5873f7a9f)
