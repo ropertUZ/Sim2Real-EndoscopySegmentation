@@ -1,16 +1,16 @@
 # Sim2Real in endoscopy segmentation with a novel structure aware image translation
 
-Repository for the paper: Tomasini C., Riazuelo, L. & Murillo, A.C. (2024) *Sim2Real in endoscopy segmentation with a novel structure aware image translation* in SASHIMI Workshop at MICCAI.
+Repository for the paper: Tomasini C., Riazuelo, L. & Murillo, A.C. (2024) *Sim2Real in endoscopy segmentation with a novel structure aware image translation* in SASHIMI Workshop at MICCAI. [**PDF**](https://arxiv.org/pdf/2505.02654)
 
 # 1. License
-
+This repository is released 
 # 2. Prerequisites
 
 # 3. Proposed image translation pipeline
 ![fig1](https://github.com/user-attachments/assets/9759c20e-5fa4-44e7-acd9-ad12428cd70a)
 
 # 4. How to run
-Weights for our modified CycleGAN network trained on simulated images from VR-CAPS and real images from EndoMapper can be found here: [**Weights**]
+Weights for our modified CycleGAN network trained on simulated images from VR-CAPS and real images from EndoMapper can be found here: [**Weights**](https://drive.google.com/drive/folders/1oS8HHqoYd5FFLuCjmFix1r9CrTLkpWMy?usp=drive_link)
 # 5. Fold segmentation annotations and results
 Data used in our paper for train and test can be found at the following links, containing RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks.
 
