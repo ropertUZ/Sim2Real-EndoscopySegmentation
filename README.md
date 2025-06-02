@@ -10,7 +10,7 @@ Repository for the paper: Tomasini C., Riazuelo, L. & Murillo, A.C. (2024) *Sim2
 ![fig1](https://github.com/user-attachments/assets/9759c20e-5fa4-44e7-acd9-ad12428cd70a)
 
 # 4. How to run
-
+Weights for our modified CycleGAN network trained on simulated images from VR-CAPS and real images from EndoMapper can be found here: [**Weights**]
 # 5. Fold segmentation annotations and results
 Data used in our paper for train and test can be found at the following links, containing RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks.
 
