@@ -35,7 +35,7 @@ Weights for our modified CycleGAN network trained on simulated images from VR-CA
 # 5. Fold segmentation annotations and results
 Data used in our paper for train and test can be found at the following links, containing RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks.
 
-- Simulated test set adapted from VR-CAPS
+- [**Simulated test set adapted from VR-CAPS**](https://drive.google.com/drive/folders/1S-hbntHkmbOEWNXvtIMvhwts2mE3K2TL?usp=drive_link)
 - [**Real test set from EndoMapper dataset**](https://drive.google.com/drive/folders/1L1tgOwAGnCCba30X9yPw_O90LapxlvD5?usp=share_link)
   
 ![res_vis](https://github.com/user-attachments/assets/cb8e1f21-6f86-4493-bcbb-fde5873f7a9f)
