@@ -21,7 +21,7 @@ Azagra, Pablo, et al. "Endomapper dataset of complete calibrated endoscopy proce
 # 1. License
 This repository is released under AGPLv3 license.
 ### Third-party code
-This repository is built on a fork of project [**pix2pix-and-CycleGAN***](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git) (with BSD License), the official implementation of the paper:
+This repository is built on a fork of project [**pix2pix-and-CycleGAN**](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git) (with BSD License), the official implementation of the paper:
 Zhu, Jun-Yan, et al. "Unpaired image-to-image translation using cycle-consistent adversarial networks." Proceedings of the IEEE international conference on computer vision. 2017.
 
 # 2. Prerequisites
