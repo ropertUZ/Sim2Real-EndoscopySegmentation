@@ -31,7 +31,7 @@ The software has been tested on **Ubuntu 20.04** and uses [Python](https://www.p
 ![fig1](https://github.com/user-attachments/assets/9759c20e-5fa4-44e7-acd9-ad12428cd70a)
 
 # 4. How to run
-Weights for our modified CycleGAN network trained on simulated images from VR-CAPS and real images from EndoMapper can be found here: [**Weights**](https://unizares-my.sharepoint.com/:f:/g/personal/ctomasini_unizar_es/EsUdd6siDVlNm21XxEePvaoBRfmKR-wtM5NoEuq8IhzU0w?e=NT0UbH)
+Weights for our modified CycleGAN network trained on simulated images from VR-CAPS and real images from EndoMapper can be found here: [**Weights**](https://unizares-my.sharepoint.com/:f:/g/personal/794524_unizar_es/IgAsyCf99WtTQaVP94mUj2iHAUQqlzTDPcF4BmwXt-_7eqw?e=Evq6EZ)
 # 5. Fold segmentation annotations and results
 Data used in our paper for train and test can be found [**here**](https://unizares-my.sharepoint.com/:f:/g/personal/ctomasini_unizar_es/EizIJ_31a1NBpU_3iZSPaIcBRCqXNMM9wXgGbBe37_t6rA?e=hvom5Y), containing RGB images (folder *original.zip*) with binary (folder *gt.zip*) and instance (folder *inst.zip*) ground-truth segmentation masks, depth maps (folder *depth.zip*) for simulated images, simulated images with added realistic texture (folder *original_aug.zip*) .
 
